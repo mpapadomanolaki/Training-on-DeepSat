@@ -19,6 +19,7 @@ To use SAT4.lua and SAT6.lua files, do the following steps:
 'mattorch'
 
 To install them, just type: luarocks install <package>
+
 It should be noted that in order to install 'mattorch' package  you need to type the following command: MATLAB_ROOT=/path_where_matlab_is_installed luarocks install mattorch
 
  
