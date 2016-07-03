@@ -46,3 +46,8 @@ After accomplishing the above steps, the training and testing is ready to start.
 
 The files of this repository were used to produce the accuracy results of the paper 'M. Papadomanolaki, M. Vakalopoulou, S. Zagoruyko, K. Karantzalos, 2016. Benchmarikng Deep Learning Frameworks for the Classification of Very High Resolution Satellite Multispectral Data, ISPRS 2016 – XXIII ISPRS Congress, Prague, Chech republic' 
 
+If you find this code useful in your research, please consider citing:
+
+M. Papadomanolaki, M. Vakalopoulou, S. Zagoruyko, K. Karantzalos, 2016. Benchmarikng Deep Learning Frameworks for the Classification of Very High Resolution Satellite Multispectral Data
+
+
