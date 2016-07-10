@@ -10,15 +10,22 @@ To use SAT4.lua and SAT6.lua files, do the following steps:
 2. After installing Torch, make sure that you have the following external Torch packages:
 
 'nn'
+
 'cutorch'
+
 'cunn'
+
 'xlua'
+
 'optim'
+
 'image'
+
 'trepl'
+
 'mattorch'
 
-To install them, just type: luarocks install <package>
+To install them, just type: luarocks install package_name
 
 It should be noted that in order to install 'mattorch' package  you need to type the following command: MATLAB_ROOT=/path_where_matlab_is_installed luarocks install mattorch
 
