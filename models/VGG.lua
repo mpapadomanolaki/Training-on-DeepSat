@@ -57,14 +57,14 @@ local function MSRinit(net)
       v.bias:zero()
     end
   end
-  -- have to do for both backends
+  
   init'nn.SpatialConvolution'
 end
 
 MSRinit(vgg)
 
--- check that we can propagate forward without errors
--- should get 16x10 tensor
---print(#vgg:cuda():forward(torch.CudaTensor(16,3,32,32)))
+
+
+
 
 return vgg
