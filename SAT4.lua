@@ -7,7 +7,7 @@ require 'xlua'
 local c = require 'trepl.colorize'
 opt = lapp[[
    -b,--batchSize             (default 100)          batch size
-   -r,--learningRate          (default 0.25)        learning rate
+   -r,--learningRate          (default 0.2)        learning rate
    --learningRateDecay        (default 1e-7)      learning rate decay
    --weightDecay              (default 0.0005)      weightDecay
    -m,--momentum              (default 0.9)         momentum
