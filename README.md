@@ -25,13 +25,13 @@ To use SAT4.lua and SAT6.lua files, do the following steps:
 
 4. Open terminal in folder DeepSat and type
 
-th SAT4.lua 
+   th SAT4.lua 
 
-or 
+   or 
 
-th SAT6.lua 
+   th SAT6.lua 
 
-depending on the dataset that you want to use.
+   depending on the dataset that you want to use.
 
 File SAT4.lua is used to train and test SAT-4 dataset. File SAT6.lua is used to train and test SAT-6 dataset.You can use ConvNet, AlexNet or VGG model for training. You just have to change the opt options (line 16) of the file that you use (SAT4.lua or SAT6.lua).
 
