@@ -40,7 +40,7 @@ th SAT6.lua
 
 depending on the dataset that you want to use.
 
-File SAT4.lua is used to train and test SAT-4 dataset. File SAT6.lua is used to train and test SAT-6 dataset.You can use ConvNet or AlexNet for training. You just have to change the opt options (line 16) of the file that you use (SAT4.lua or SAT6.lua).
+File SAT4.lua is used to train and test SAT-4 dataset. File SAT6.lua is used to train and test SAT-6 dataset.You can use ConvNet, AlexNet or VGG model for training. You just have to change the opt options (line 16) of the file that you use (SAT4.lua or SAT6.lua).
 
 After accomplishing the above steps, the training and testing is ready to start. When the training procedure is over, file 'class_predictions_sat4.t7' or 'class_predictions_sat6.t7' will have been created, depending on the dataset you use. It is a one dimensional Tensor that includes the class predictions of the trained model.
 
