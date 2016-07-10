@@ -63,8 +63,4 @@ end
 
 MSRinit(vgg)
 
-
-
-
-
 return vgg
