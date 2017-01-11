@@ -1,4 +1,4 @@
-# Torch
+# Patch based deep learning models 
 Train DeepSat dataset [Basu et al., 2015] with Torch
 
 Files SAT4.lua and SAT6.lua can be used to train SAT-4 and SAT-6 airborne datasets [Saikat Basu, Sangram Ganguly, Supratik Mukhopadhyay, Robert Dibiano, Manohar Karki and Ramakrishna Nemani, DeepSat - A Learning framework for Satellite Imagery, ACM SIGSPATIAL 2015]. You can donwload the dataset from the following link: http://csc.lsu.edu/~saikat/deepsat/
